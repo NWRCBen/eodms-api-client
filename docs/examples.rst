@@ -17,7 +17,13 @@ We are also only interested in **RCM** imagery from **August 15 2020** to **Augu
 Command-Line Interface (CLI)
 ----------------------------
 
-First we run a query to see what's available
+First, we change our working directory. This will ensure the query saved results are saved in the directory of your choice.
+
+.. code-block:: console
+
+    cd PathToWorkingDirectory
+    
+Then we run a query to see what's available
 
 .. code-block:: console
 
